@@ -1,0 +1,12 @@
+[{<<"jiffy">>,
+  {git,"https://github.com/davisp/jiffy.git",
+       {ref,"a7db72493d2288533afbb417d5c2e6f11db84639"}},
+  0},
+ {<<"quickrand">>,
+  {git,"https://github.com/okeuday/quickrand.git",
+       {ref,"178c3340ae3f666bfa1fe0472a68e44dca552b1a"}},
+  1},
+ {<<"uuid">>,
+  {git,"https://github.com/okeuday/uuid.git",
+       {ref,"15bd7676d29bec7bd967a2cab931006a4c968040"}},
+  0}].
